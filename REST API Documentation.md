@@ -1,14 +1,21 @@
-**Show User**
-----
-  Returns json data about a single user.
+**Overveiw**
+Ready to build your sample Vit@min integration over REST? Here’s what you need:
 
+Apply for partner by filling the Partner Integration Questionnaire -
+
+
+
+**Authentication**
+----
+  Allows Vit@min users authentify with third party applicaitons
+  
 * **URL**
 
-  /users/:id
+  /auth/
 
 * **Method:**
 
-  `GET`
+  `POST`
   
 *  **URL Params**
 
