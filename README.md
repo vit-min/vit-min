@@ -1,6 +1,7 @@
 # **vit@min**
 
 API DOCUMENTATION - REST API Documentation.md
+(https://github.com/vit-min/vit-min-api-doc/blob/master/REST%20API%20Documentation.md)
 
 # **Digital patient-support platform**
 
