@@ -2,7 +2,7 @@
 
 ## Background 
 
-The Vitamin app will is designed to integrate well with other medical apps. The purpose the integration is to server as a bridge between other apps and NHIF (National Health Insurance Fund). In order to do that in a secure and scalable manner, other apps must comply to a specific API interface, which would allow them to integrate seemlessly and without any coding needed. Below is described the flow and API endpoints fetching various data objects. 
+The Vitamin app is designed to integrate well with other medical applications. The purpose the integration is to server as a bridge between other apps and NHIF (National Health Insurance Fund). In order to do that in a secure and scalable manner, other apps must comply to a specific API interface, which would allow them to integrate seemlessly and without any coding needed. Below is described the flow and API endpoints fetching various data objects. 
 
 ## Authorization
 
