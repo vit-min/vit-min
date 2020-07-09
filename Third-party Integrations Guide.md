@@ -43,7 +43,7 @@ Code Challenge - this is the result of using the code_challenge_method on the co
 ```
 https://YOUR_DOMAIN/authorize?
     response_type=code //authorization code is expected
-    client_id= //a unique ID for the Vit@Admin app of other third party clients, registered with your auth server
+    client_id= //a unique ID for the Vit@Admin app or other third party clients, registered with your auth server
     redirect_uri= //the URL to which the user should be returned after successfull authorization
     code_challenge=<CODE_CHALLENGE> //the code challenge string
     code_challenge_method=S256 //can be either S256 or plain, but plain should not be used in production
@@ -66,7 +66,7 @@ The client should exchange the authorization code for an access token and a refr
 ```
 POST https://YOUR_DOMAIN/oauth/token
 	grant_type=authorization_code //the grant type of this token request
-	client_id= //a unique ID for the Vit@Admin app of other third party clients, registered with your auth server
+	client_id= //a unique ID for the Vit@Admin app or other third party clients, registered with your auth server
 	redirect_uri= //same as in previous request
 	code=authorization_code //the authorization code received from the previous request
 	code_verifier=code_verifier //the code verifier created initially by the client
