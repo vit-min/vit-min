@@ -1,7 +1,7 @@
 # **vit@min**
 INTEGRATION WITH US
 
-[APPLICATION FORM] (https://docs.google.com/forms/d/e/1FAIpQLSeMgN1IUcY57HyAkLXqoQh01i26-p05evdNoQUyu1DXQlwA0g/viewform)
+[APPLICATION FORM](https://docs.google.com/forms/d/e/1FAIpQLSeMgN1IUcY57HyAkLXqoQh01i26-p05evdNoQUyu1DXQlwA0g/viewform)
 [DOCUMENTATION](https://github.com/vit-min/vit-min-api-doc/blob/master/Third-party%20Integrations%20Guide.md)
 
 # **Digital patient-support platform**
