@@ -1,8 +1,5 @@
 # **vit@min**
-INTEGRATION WITH US
 
-[APPLICATION FORM](https://docs.google.com/forms/d/e/1FAIpQLSeMgN1IUcY57HyAkLXqoQh01i26-p05evdNoQUyu1DXQlwA0g/viewform)
-[DOCUMENTATION](https://github.com/vit-min/vit-min-api-doc/blob/master/Third-party%20Integrations%20Guide.md)
 
 # **Digital patient-support platform**
 
@@ -11,6 +8,11 @@ INTEGRATION WITH US
 @min Foundation is established to enhance and support technological innovations and digital solutions addressing unmet patients&#39; needs and improving patients journey. The digital solutions are tailored to the individual specifics of the chronic conditions and are co-created with the involvement of the relevant patients groups.
 
 **vit@min** is designed in a close collaboration with variety of experts, entities and institutions as needed for each concrete patients&#39; population. Namely but not only: National patients&#39; organization, Digital healthcare innovations cluster, unions of healthcare specialists, representatives of Bulgarian medical council, Bulgarian medicines verification organization, Bulgarian drugs agency, National healthcare institute, Bulgarian pharmaceutical union and others.
+
+## Integrate with Vit@min
+[APPLICATION FORM](https://docs.google.com/forms/d/e/1FAIpQLSeMgN1IUcY57HyAkLXqoQh01i26-p05evdNoQUyu1DXQlwA0g/viewform)
+
+[DOCUMENTATION](https://github.com/vit-min/vit-min-api-doc/blob/master/Third-party%20Integrations%20Guide.md)
 
 ## 1. Situational analysis
 
